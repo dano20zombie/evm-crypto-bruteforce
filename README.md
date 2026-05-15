@@ -1,4 +1,4 @@
-# evm-crypto-bruteforce
+# EVM Crypto Brute Force
 
 > Based on the original repository [cdw1p/evm-crypto-bruteforce](https://github.com/cdw1p/evm-crypto-bruteforce), with the following main changes:
 > - optional GPU acceleration for much higher address-generation throughput;
