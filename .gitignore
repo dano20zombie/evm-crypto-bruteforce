@@ -1,0 +1,35 @@
+﻿# Visual Studio workspace files
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.VC.opendb
+
+# Build artifacts
+x64/
+Debug/
+Release/
+**/x64/
+**/Debug/
+**/Release/
+**/*.obj
+**/*.iobj
+**/*.ipdb
+**/*.pdb
+**/*.ilk
+**/*.idb
+**/*.tlog
+**/*.lastbuildstate
+**/*.recipe
+**/*.cache
+**/*.deps
+**/*.log
+**/*.exe
+**/*.dll
+**/*.lib
+**/*.exp
+
+# Runtime output
+wallets.txt
