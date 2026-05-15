@@ -12,7 +12,9 @@
 3. queries an Ethereum node in JSON-RPC batches (`eth_getBalance` plus token `eth_call` requests for USDC and USDT),
 4. reports wallets with non-zero balances.
 
-![Sample throughput output](image01.png)
+<p align="center">
+  <img src="image01.png" alt="Sample throughput output" />
+</p>
 
 ## Legal and safety notice
 
